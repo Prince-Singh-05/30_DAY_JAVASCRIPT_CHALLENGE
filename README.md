@@ -25,36 +25,36 @@ To get started with the challenge, you'll need to have a basic understanding of 
 
 Each day of the challenges introduces new concepts and projects:
 
-1. **Day 1**:Javascript Challenege
-2. **Day 2**: Variables and data types.
-3. **Day 3**: Operators and expressions.
-4. **Day 4**: Control structures and loops.
-5. **Day 5**: Functions and scope.
-6. **Day 6**: Arrays and objects.
-7. **Day 7**: objects
-8. **Day 8**: ES6+Features
-9. **Day 9**: Dom maniplation
-10. **Day 10**: Event Handeling
-11. **Day 11**: Promises and Async:awiat
-12. **Day 12**: Error handling.
-13. **Day 13**: Modules
-14. **Day 14**: classes
-15. **Day 15**: closures
-16. **Day 16**: Recusion
-17. **Day 17**: Data Structures
-18. **Day 18**: Alogrithms
-19. **Day 19**: Regular Expressions
-20. **Day 20**: Local storage and SessionStorage
-21. **Day 21**: LeetCode Easy
-22. **Day 22**: LeetCode Medium
-23. **Day 23**: Leetcode Hard
-24. **Day 24**: Project 1:weather App
-25. **Day 25**: Project 2:Movie Search App
-26. **Day 26**: Project 3: Chat Application
-27. **Day 27**: Project 4 : Task Management App
-28. **Day 28**: Project 5 :E-commerce website
-29. **Day 29**: project 6: Social media Dashboard
-30. **Day 30**: Final: Social Media Dashboard with full features
+**Day 1**: Variables and data types
+**Day 2**: Operators and expressions
+**Day 3**: Control structures
+**Day 4**: loops
+**Day 5**: Functions and scope
+**Day 6**: Arrays
+**Day 7**: objects
+**Day 8**: ES6+Features
+**Day 9**: Dom maniplation
+**Day 10**: Event Handeling
+**Day 11**: Promises and Async:awiat
+**Day 12**: Error handling.
+**Day 13**: Modules
+**Day 14**: classes
+**Day 15**: closures
+**Day 16**: Recusion
+**Day 17**: Data Structures
+**Day 18**: Alogrithms
+**Day 19**: Regular Expressions
+**Day 20**: Local storage and SessionStorage
+**Day 21**: LeetCode Easy
+**Day 22**: LeetCode Medium
+**Day 23**: Leetcode Hard
+**Day 24**: Project 1:weather App
+**Day 25**: Project 2:Movie Search App
+**Day 26**: Project 3: Chat Application
+**Day 27**: Project 4: Task Management App
+**Day 28**: Project 5: E-commerce website
+**Day 29**: project 6: Social media Dashboard
+**Day 30**: Final: Social Media Dashboard with full features
 
 ## Installation
 
