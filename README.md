@@ -26,34 +26,63 @@ To get started with the challenge, you'll need to have a basic understanding of 
 Each day of the challenges introduces new concepts and projects:
 
 **Day 1**: Variables and data types
+
 **Day 2**: Operators and expressions
+
 **Day 3**: Control structures
+
 **Day 4**: loops
+
 **Day 5**: Functions and scope
+
 **Day 6**: Arrays
+
 **Day 7**: objects
+
 **Day 8**: ES6+Features
+
 **Day 9**: Dom maniplation
+
 **Day 10**: Event Handeling
+
 **Day 11**: Promises and Async:awiat
+
 **Day 12**: Error handling.
+
 **Day 13**: Modules
+
 **Day 14**: classes
+
 **Day 15**: closures
+
 **Day 16**: Recusion
+
 **Day 17**: Data Structures
+
 **Day 18**: Alogrithms
+
 **Day 19**: Regular Expressions
+
 **Day 20**: Local storage and SessionStorage
+
 **Day 21**: LeetCode Easy
+
 **Day 22**: LeetCode Medium
+
 **Day 23**: Leetcode Hard
+
 **Day 24**: Project 1:weather App
+
 **Day 25**: Project 2:Movie Search App
+
 **Day 26**: Project 3: Chat Application
+
 **Day 27**: Project 4: Task Management App
+
 **Day 28**: Project 5: E-commerce website
+
 **Day 29**: project 6: Social media Dashboard
+
 **Day 30**: Final: Social Media Dashboard with full features
 
 ## Installation
