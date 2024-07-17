@@ -132,7 +132,7 @@ function calcAge(birthYear) {
 }
 
 function isValid(calcAge) {
-    return (calcAge > 18) ? console.log("Valid to vote") : console.log("Not valid to vote");
+    return calcAge > 18;
 }
 
 console.log(validToVote(calcAge, isValid, 2003));
