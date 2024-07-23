@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 10</title>
+
+    <style>
+
+        
+
+        .hide {
+            opacity: 0;
+        }
+
+        .task3div {
+            width: 200px;
+            height: 200px;
+            background-color: rebeccapurple;
+            transition: all 1s ease-in;
+        }
+
+        .changeBgcolor {
+            background-color: aqua;
+            transition: all 1s ease-in;
+        }
+
+    </style>
+</head>
+<body>
+    
+    <p id="task1Para">This is First Paragraph</p>
+    <button id="task1Btn">Change Text</button>
+
+    <img src="./image1.jpg" alt="Task 2" id="task2Img" width="200">
+
+    <div class="task3div"></div>
+
+    <input type="text" class="act3Inp" placeholder="Enter something....">
+
+    <form action="/" method="post" id="task7form">
+        <label for="name">Name</label>
+        <input
+            type="text"
+            class="input"
+            name="name"
+            id="name"
+            placeholder="Enter your name"
+        />
+        <br />
+        <label for="mobile">Mobile</label>
+        <input
+            type="number"
+            class="input"
+            name="mobile"
+            id="mobile"
+            placeholder="Enter your mobile"
+        />
+        <br />
+        <label for="password">Password</label>
+        <input
+            type="password"
+            class="input"
+            name="password"
+            id="password"
+            placeholder="Enter your password"
+        />
+        <button>Submit</button>
+    </form>
+
+    <label for="task8select">Select one - </label>
+    <select name="select" id="task8select">
+        <option value="">Select</option>
+        <option value="BMW M3">BMW M3</option>
+        <option value="Audi R8">Audi R8</option>
+        <option value="Mustang GT">Mustang GT</option>
+    </select>
+
+    <p id="task8para"></p>
+
+    <ul id="task9ul">
+        <li>Football</li>
+        <li>Basketball♥</li>
+        <li>Cricket</li>
+        <li>Hockey</li>
+    </ul>
+
+    <div class="task10parent">
+        <button class="addChildBtn">Add Child</button>
+    </div>
+
+
+
+    <script src="day_10.js"></script>
+</body>
+</html>
