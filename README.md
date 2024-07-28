@@ -25,37 +25,37 @@ To get started with the challenge, you'll need to have a basic understanding of 
 
 Each day of the challenges introduces new concepts and projects:
 
-- [ ] **Day 1**: Variables and data types
+- [X] **Day 1**: Variables and data types
 
-- [ ] **Day 2**: Operators and expressions
+- [X] **Day 2**: Operators and expressions
 
-- [ ] **Day 3**: Control structures
+- [X] **Day 3**: Control structures
 
-- [ ] **Day 4**: loops
+- [X] **Day 4**: loops
 
-- [ ] **Day 5**: Functions and scope
+- [X] **Day 5**: Functions and scope
 
-- [ ] **Day 6**: Arrays
+- [X] **Day 6**: Arrays
 
-- [ ] **Day 7**: objects
+- [X] **Day 7**: objects
 
-- [ ] **Day 8**: ES6+Features
+- [X] **Day 8**: ES6+Features
 
-- [ ] **Day 9**: Dom maniplation
+- [X] **Day 9**: Dom maniplation
 
-- [ ] **Day 10**: Event Handeling
+- [X] **Day 10**: Event Handeling
 
-- [ ] **Day 11**: Promises and Async:awiat
+- [X] **Day 11**: Promises and Async:awiat
 
-- [ ] **Day 12**: Error handling.
+- [X] **Day 12**: Error handling.
 
-- [ ] **Day 13**: Modules
+- [X] **Day 13**: Modules
 
-- [ ] **Day 14**: classes
+- [X] **Day 14**: classes
 
-- [ ] **Day 15**: closures
+- [X] **Day 15**: closures
 
-- [ ] **Day 16**: Recusion
+- [X] **Day 16**: Recusion
 
 - [ ] **Day 17**: Data Structures
 
