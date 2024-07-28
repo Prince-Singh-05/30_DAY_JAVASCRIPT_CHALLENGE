@@ -220,6 +220,31 @@ function factorial(num) {
 
 const memoizeFactorial = memoizeNew(factorial);
 
+console.log(factorialMemo(6));
+console.log(factorialMemo(9));
+
+// In below logic we store the ans for any previous calls in cache memory and then use it to find factorial for next call.
+
+
+let cache = {};
+
+function factorialMemo(n) {
+    if(n == 0) {
+        return 1;
+    }
+    if(Object.keys(cache).length === 0) {
+        const result = n * factorialMemo(n-1);
+        cache[n] = result;
+    }
+    if(cache[n] !== undefined) {
+        return cache[n];
+    }
+
+    cache[n] = n * factorialMemo(n-1);
+    return cache[n];
+}
+
 console.log(memoizeFactorial(6)); // calculate for factorial of 6
 console.log(memoizeFactorial(9)); // cache factorial of 6 and use it for factorial of 9
 console.log(memoizeFactorial(12)); //cache factorial of 9 and use it for factorial of 12
+
