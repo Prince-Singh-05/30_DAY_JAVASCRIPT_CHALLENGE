@@ -57,11 +57,11 @@ Each day of the challenges introduces new concepts and projects:
 
 - [X] **Day 16**: Recusion
 
-- [ ] **Day 17**: Data Structures
+- [X] **Day 17**: Data Structures
 
-- [ ] **Day 18**: Alogrithms
+- [X] **Day 18**: Alogrithms
 
-- [ ] **Day 19**: Regular Expressions
+- [X] **Day 19**: Regular Expressions
 
 - [ ] **Day 20**: Local storage and SessionStorage
 
